@@ -1,7 +1,19 @@
 {
     "login.title" : "Tu librería aliada",
     "login.username" : "Usuario",
-    "login.usernameHelp": "Olvidaste tu contraseña?",
+    "login.usernameHelp": "¿Olvidaste tu contraseña?",
     "login.password" : "Contraseña",
-    "login.submit" : "Ingresar"
+    "login.submit" : "Ingresar",
+    "home.title" : "Libros",
+    "book.isbn" : "ISBN ",
+    "book.author" : "Autor",
+    "book.publisher" : "Editorial",
+    "book.genre" : "Género",
+    "book.year" : "Año",
+    "book.availableOnline" : "Disponible en línea",
+    "book.availableOnlineTrue" : "Sí",
+    "book.availableOnlineFalse" : "No",
+    "book.price" : "Precio",
+    "book.summary" : "Resumen"
+
 }

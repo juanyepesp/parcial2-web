@@ -1,0 +1,18 @@
+{
+    "login.title" : "Your allied library",
+    "login.username" : "Username",
+    "login.usernameHelp": "Forgot your password?",
+    "login.password" : "Password",
+    "login.submit" : "Login",
+    "home.title" : "Books",
+    "book.isbn" : "ISBN ",
+    "book.author" : "Author",
+    "book.publisher" : "Publisher",
+    "book.genre" : "Genre",
+    "book.year" : "Year",
+    "book.availableOnline" : "Available online",
+    "book.availableOnlineTrue" : "Yes",
+    "book.availableOnlineFalse" : "No",
+    "book.price" : "Price",
+    "book.summary" : "Summary"
+}
