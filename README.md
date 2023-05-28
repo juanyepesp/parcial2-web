@@ -51,5 +51,9 @@ Está la separación entre vistas y componentes. Las vistas son las páginas que
 
 ## Screenshots
 
+<img width="1549" alt="Screenshot 2023-05-28 at 1 24 15 AM" src="https://github.com/juanyepesp/parcial2-web/assets/77981728/71d177e2-62b4-46c7-85ed-eaff0c604bd7">
+<img width="1549" alt="Screenshot 2023-05-28 at 1 24 05 AM" src="https://github.com/juanyepesp/parcial2-web/assets/77981728/90cd46d7-5783-4da1-b6a3-c1d863de3392">
+<img width="1549" alt="Screenshot 2023-05-28 at 1 23 54 AM" src="https://github.com/juanyepesp/parcial2-web/assets/77981728/897676f7-1d85-434e-a4c7-0e96baf81ead">
+
 
 
